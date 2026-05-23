@@ -8,7 +8,7 @@ baseurl                  : ""
 repository               : ""
 
 author:
-  avatar           : "images/1.png"
+  avatar           : "1.png"
   name             : "Baixin Lu"
   pronouns         :
   bio              : "Harbin Institute of Technology"
