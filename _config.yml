@@ -1,14 +1,14 @@
 locale                   : "en-US"
 title                    : "Baixin Lu"
 title_separator          : "-"
-name                     : "Baixin Lu"
-description              : &description "Master Candidate"
+name                     : "Baixin Lu/ Homepage"
+description              : "Master Candidate"
 url                      : ""
 baseurl                  : ""
 repository               : ""
 
 author:
-  avatar           : "1.png"
+  avatar           : "images/1.png"
   name             : "Baixin Lu"
   pronouns         :
   bio              : "Harbin Institute of Technology"
