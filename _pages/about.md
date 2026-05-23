@@ -9,9 +9,40 @@ redirect_from:
 ---
 <h1 class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my Homepage!</h1>
 
-Hi! I work on AI, survive on instant noodles, and submit papers 3 minutes before deadlines.
+<div style="padding-bottom: 15px; margin-bottom: 15px;">
+  <div style="text-align: justify; line-height: 1.6; font-size: 1em;">
+    Since 2021, I have been pursuing my undergraduate degree in Measurement and Control Technology and Instrumentation at 
+    <a href="https://www.jlu.edu.cn/" style="color: #F39C12; text-decoration: none;">Jilin University</a>, 
+    and since 2025, I have been pursuing my academic master's degree in Instrumentation Science and Technology at 
+    <a href="http://www.hit.edu.cn/" style="color: #F39C12; text-decoration: none;">Harbin Institute of Technology</a>.
+  </div>
+</div>
 
-Feel free to reach out if you are interested in collaboration or potential opportunities.
+<div style="padding-bottom: 15px; margin-bottom: 15px;">
+  <div style="text-align: justify; line-height: 1.6; font-size: 1em;">
+    I am an unwavering fan of <a href="https://hsr.hoyoverse.com/" style="color: #F39C12; text-decoration: none;">Honkai Star Rail</a> and <a href="https://zzz.hoyoverse.com/" style="color: #F39C12; text-decoration: none;">Zenless Zone Zero</a>. I have a passion for cutting-edge technology and international exchanges. I welcome like-minded researchers to contact me!
+  </div>
+</div>
+
+<div style="line-height: 1.8; font-size: 1em;">
+  📈 My research interests include
+  <ul style="margin: 0; padding: 0;">
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=computer+vision" style="color: #F39C12; text-decoration: none;">Computer Vision</a></li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=autonomous+driving" style="color: #F39C12; text-decoration: none;">Autonomous Driving</a></li>
+    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=natural+language+processing" style="color: #F39C12; text-decoration: none;">Natural Language Processing</a></li>
+  </ul>
+</div>
+
+<div style="margin: 30px 0;">
+  <h3 style="margin: 0 0 20px 0; color: #333;">🛠️ Tech Stack</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=anaconda,autocad,blender,c,cs,cpp,git,github,gitlab,gmail,html,ai,js,latex,matlab,octave,opencv,powershell,pycharm,py,pytorch,qt,r,ros,tensorflow,ubuntu,unity,visualstudio,vscode" />
+    </a>
+  </div>
+</div>
+
+<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;"></div>
 
 News
 ---------------
