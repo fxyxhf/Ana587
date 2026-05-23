@@ -1,26 +1,26 @@
 locale                   : "en-US"
-title                    : "WowPage"
+title                    : "Baixin Lu"
 title_separator          : "-"
-name                     : "Your Name"
-description              : &description "A clean academic homepage template."
+name                     : "Baixin Lu"
+description              : &description "Master Candidate"
 url                      : ""
 baseurl                  : ""
 repository               : ""
 
 author:
   avatar           : "1.png"
-  name             : "Your Name"
+  name             : "Baixin Lu"
   pronouns         :
-  bio              : "Student and researcher."
-  location         : "City, Country"
+  bio              : "Harbin Institute of Technology"
+  location         : "Harbin, China"
   employer         : "Institution or Company"
   uri              :
-  email            : "name@example.com"
+  email            : "lubx_2021@163.com"
 
   arxiv            :
   googlescholar    :
   impactstory      :
-  orcid            :
+  orcid            : "https://orcid.org/0009-0009-5260-6171"
   semantic         :
   pubmed           :
   researchgate     :
@@ -28,16 +28,16 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           :
+  github           : "https://github.com/fxyxhf"
   kaggle           :
   stackoverflow    :
 
-  WeChat           :
+  WeChat           : "images/weixin.png" 
   linkedin         :
   bilibili         :
   twitter          :
   youtube          :
-  zhihu            :
+  zhihu            : "https://www.zhihu.com/people/feng-xian-you-xun-huan-fei" 
   XiaoHongShu      :
 
 teaser                   :
